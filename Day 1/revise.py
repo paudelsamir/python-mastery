@@ -15,6 +15,9 @@
 #my_age is now 16
 
 
+
+
+
 #DATA TYPES
 # my_number = 354      - INTEGERS
 
@@ -39,3 +42,26 @@
 
 # n = 3.14159           -CHECKING DATA TYPES
 # type(n) #result float
+
+
+
+
+#MATH
+
+
+
+# 3+2 #Add          -ARITHMETIC OPERATORS
+# 4-1 #Subtract
+# 2*3 #Multiply
+# 5/2 #Divide
+# 5**2 #Exponent
+
+
+# my_number = 4         -THE +=OPERATOR
+# my_number += 2
+# #result is 6
+
+# 5 % 2             -THE MODULO OPERATOR
+# #result is 1
+
+
