@@ -65,3 +65,51 @@
 # #result is 1
 
 
+
+
+
+
+
+#FUNCTIONS
+# def my_function():      -Creating Functions
+# print("Hello")
+# name = input("Your name:")print("Hello")
+
+
+
+
+# my_function()           -Calling Functions
+# my_function()
+# #The function my_function
+# #will run twice.
+
+
+
+# def add(n1, n2):        Functions with Inputs
+# print(n1 + n2)
+# add(2, 3)
+
+
+
+# def add(n1, n2):            Functions with Outputs
+# return n1 + n2
+# result = add(2, 3)
+
+
+
+# n = 2                   Variable Scope
+# def my_function():
+# n = 3
+# print(n)
+# print(n) #Prints 2
+# my_function() #Prints 3
+
+
+
+
+# def divide(n1, n2):         Keyword Arguments
+# result = n1 / n2
+# #Option 1:
+# divide(10, 5)
+# #Option 2:
+# divide(n2=5, n1=10)
