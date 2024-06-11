@@ -113,3 +113,61 @@
 # divide(10, 5)
 # #Option 2:
 # divide(n2=5, n1=10)
+
+
+
+
+
+
+
+# #CONDITIONALS
+
+# n = 5                   IF
+# if n > 2:
+# print("Larger than 2")
+
+
+
+# age = 18                ELSE
+# if age > 16:
+# print("Can drive")
+# else:
+# print("Don't drive")
+
+
+# weather = "sunny"           ELIF
+# if weather == "rain":
+# print("bring umbrella")
+# elif weather == "sunny":
+# print("bring sunglasses")
+# elif weather == "snow":
+# print("bring gloves")
+
+
+
+# s = 58                      AND
+# if s < 60 and s > 50:
+# print("Your grade is C")
+
+
+
+
+# age = 12                    OR
+# if age < 16 or age > 200:
+# print("Can't drive")
+
+
+
+
+# if not 3 > 1:               NOT
+# print("something")
+# #Will not be printed.
+
+
+
+# > Greater than          COMPARISON OPERATORS
+# < Lesser than
+# >= Greater than or equal to
+# <= Lesser than or equal to
+# == Is equal to
+# != Is not equal to
