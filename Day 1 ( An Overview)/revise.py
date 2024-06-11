@@ -1,17 +1,16 @@
  #--------------------------------BASICS--------------------------------
 
-# print("Hello World")              Print
+# print("Hello World")              -Print
 
-# input("What's your name")         Input
+# input("What's your name")         -Input
 
-#This is a comment                  Comments    
+#This is a comment                  -Comments    
 # print("This is code")
 
-# my_name = "Angela"                Variables
+# my_name = "JohnWick"              -Variables
 # my_age = 12
 
-# my_age = 12                       The += Operator
-
+# my_age = 12                       -The += Operator
 # my_age += 4
 #my_age is now 16
 
@@ -58,6 +57,7 @@
 # 2*3 #Multiply
 # 5/2 #Divide
 # 5**2 #Exponent
+
 # my_number = 4     -THE +=OPERATOR
 # my_number += 2
 # #result is 6
@@ -189,7 +189,33 @@
 
 
 
-#--------------------BUILT IN FUNCTIONS-------------------------
+#----------------------------------------LIST METHODS---------------------------------------------
+
+# list1 = [1, 2, 3]                   -Adding Lists Together
+# list2 = [9, 8, 7]
+# new_list = list1 + list2
+# list1 += list2
+
+# all_fruits = ["apple",              -Adding an Item to a List
+# "banana", "orange"]
+# all_fruits.append("pear")
+
+# letters = ["a", "b", "c"]           -List Index
+# letters[0]
+# #Result:"a"
+# letters[-1]
+# #Result: "c"
+
+# list[start:end]                     -List Slicing
+# letters = ["a","b","c","d"]
+# letters[1:3]
+# #Result: ["b", "c"]
+
+
+
+
+
+#-------------------------------------------BUILT IN FUNCTIONS------------------------------------
 
 # # range(start, end, step)          - RANGE
 # for i in range(6, 0, -2):
@@ -214,5 +240,67 @@
 
 #--------------------------------MODULES--------------------------------
 
-import random
-n = random.randint(3, 10)
+# import random                   -Importing
+# n = random.randint(3, 10) 
+
+# import random as r              -Aliasing
+# n = r.randint(1, 5)
+
+# from random import randint      -Importing from modules
+# n = randint(1, 5)
+
+# from random import *            -Importing Everything
+# list = [1, 2, 3]
+# choice(list)
+# # More readable/understood
+# #random.choice(list)
+
+
+
+
+
+
+
+#--------------------------------CLASSES AND OBJECTS---------------------
+
+# class MyClass:      -Creating a Python Class
+# #define class
+
+# class Car:          -Creating an Object from a Clas
+# pass
+# my_toyota = Car()
+
+# class Car:          -Class Methods
+# def drive(self):
+# print("move")
+# my_honda = Car()
+# my_honda.drive()
+
+# class Car:          -Class Variables
+# colour = "black"
+# car1 = Car()
+# print(car1.colour) #black
+
+# class Car:          -The __init__ method
+# def __init__(self):
+# print("Building car")
+# my_toyota = Car()
+# #You will see "building car"
+# #printed.
+
+# class Car:          -Class Properties
+# def __init__(self, name):
+# self.name = "Jimmy
+
+# class Animal:       -Class Inheritance
+# def breathe(self):
+# print("breathing")
+# class Fish(Animal):
+# def breathe(self):
+# super().breathe()
+# print("underwater")
+# nemo = Fish()
+# nemo.breathe()
+# #Result:
+# #breathing
+# #underwater
