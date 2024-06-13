@@ -7,7 +7,7 @@ BMI = int(weight)/float(height) ** 2
 # print(type(weight))
 # print(type(height))
 
-bmi = int(BMI)
+bmi = int(BMI) #To turn it into whole number
 
 print(bmi)
 
