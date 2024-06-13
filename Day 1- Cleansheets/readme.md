@@ -68,7 +68,6 @@ print(type(name))     # Output: <class 'str'>
 greeting_fstring = f"Hello, {name}! You are {age} years old."
 print(greeting_fstring)  # Output: Hello, Alice! You are 25 years old.
 ```
-
 ### Maths
 - **Arithmetic Operators**: `+`, `-`, `*`, `/`, `**`.
 - **The `+=` Operator**: Convenient addition.
@@ -240,7 +239,6 @@ if number != 5:
     print("Number is not equal to 5")
 ```
 ### Loops
-### Loops
 - **While Loop**: Repeating actions while a condition is true.
 - **For Loop**: Iterating over a sequence.
 - **break**: Exiting a loop.
@@ -392,7 +390,6 @@ print("Value of pi:", pi)  # Output: Value of pi: 3.141592653589793
 from random import randint
 print("Random number between 1 and 100:", randint(1, 100))
 ```
-
 ### Classes and Objects
 - **Creating Python Class**: You create a class using the `class` keyword.
 - **Creating an Object from a Class**: You can create a new instance of an object by using the `class name()` syntax.
