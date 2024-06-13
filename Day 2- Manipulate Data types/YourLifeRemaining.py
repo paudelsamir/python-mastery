@@ -8,5 +8,5 @@ months_remaining = year_remaining * 12
 
 print(months_remaining)
 
-message = f"You have {days_remaining} days,{weeks_remaining} weeks, and {months_remaining} months left"
+message = f"You have {days_remaining} days or{weeks_remaining} weeks or {months_remaining} months left"
 print(message)
