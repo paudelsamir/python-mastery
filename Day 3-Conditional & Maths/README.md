@@ -1,4 +1,4 @@
-### Conditionals
+### Conditionals 
 - **If**: Basic condition checks.
 - **Else**: Specifying code to run if `if` condition is false.
 - **Elif**: Additional conditions.

@@ -1,4 +1,4 @@
-## Loops
+## Loops 
 - **While Loop**: Repeating actions while a condition is true.
 - **For Loop**: Iterating over a sequence.
 - **break**: Exiting a loop.

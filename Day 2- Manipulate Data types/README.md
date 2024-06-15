@@ -1,4 +1,4 @@
-# Manipulating Data Types in Python
+# Manipulating Data Types in Python 
 
 ## Data Types
 

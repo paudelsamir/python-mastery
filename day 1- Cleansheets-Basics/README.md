@@ -1,5 +1,6 @@
 # Python Mastery: Day 1 -Cleansheets
 
+
 ## Concepts Covered
 
 On the first day, I revised the following Python concepts, syntaxes are thoroughly covered `below`:
