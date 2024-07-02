@@ -1,18 +1,25 @@
+# 100 Days of Code [Python Mastery]
 
-# 100DaysofCode [python-mastery]
-
- This repository contains my day-by-day progress, organized by difficulty level.
-
-
+This repository tracks my day-by-day progress in learning Python, organized by difficulty level.
 
 ## Repository Structure
 
-The repository is organized into three main directories based on the difficulty level:
+The repository is organized into three main directories based on difficulty:
 
-- **Beginner**: Contains folders named `dayXX` (e.g., `day1`, `day2`, etc.)
-- **Intermediate**: Contains folders named `DayXX` (e.g., `Day1`, `Day2`, etc.)
-- **Advanced**: Contains folders named `DAYXX` (e.g., `DAY1`, `DAY2`, etc.)
-
-Each folder contains the work completed on that particular day, including any codes, notes, images and project files.
+- **Beginner**
+- **Intermediate**
+- **Advanced**
 
 
+## Progress Tracker
+
+| Level | Days | Status |
+|-------|------|--------|
+| 🌱 Beginner | 01-14 | ✅ Completed |
+| 🌿 Intermediate | 15-30 | 🏃 In Progress |
+| 🌳 Advanced | 31-100 | 🔜 Coming Soon |
+
+## Resources
+
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Udemy Python Course](https://www.udemy.com/course/100-days-of-code/?couponCode=ST16MT70224#questions/13314700)
