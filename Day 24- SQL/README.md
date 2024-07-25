@@ -206,5 +206,3 @@ SELECT name
 FROM employees
 WHERE salary > (SELECT AVG(salary) FROM employees);
 ```
-
-These notes cover the fundamental concepts of SQL using MySQL. Practice each concept with real examples to solidify your understanding.
