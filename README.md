@@ -10,7 +10,6 @@ The repository is organized into three main directories based on difficulty:
 - **Intermediate**
 - **Advanced**
 
-
 ## Progress Tracker
 
 | Level | Days | Status |
