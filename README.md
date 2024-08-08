@@ -23,4 +23,5 @@ The repository is organized into three main directories based on difficulty:
 - [Python Official Documentation](https://docs.python.org/3/)
 - [Udemy Python Course](https://www.udemy.com/course/100-days-of-code/?couponCode=ST16MT70224#questions/13314700)
 - [SQL](https://www.scaler.com/topics/course/sql-using-mysql-course/)
+- [Book](https://github.com/shshankar1/ebooks/blob/master/Python%20for%20Data%20Analysis.pdf)
   
