@@ -1,4 +1,4 @@
-# 100 Days of Code [Python Mastery]
+# MASTERING PYTHON 
 
 This repository tracks my day-by-day progress in learning Python, organized by difficulty level.
 
