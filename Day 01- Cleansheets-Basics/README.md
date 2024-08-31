@@ -1,9 +1,12 @@
-# Python Mastery: Day 1 -Cleansheets
+**Note:** 🚀 **I’ve learned the basics of Python before and am now revisiting them to strengthen my foundation.**  This cleansheet is crafted with the help of AI tools and invaluable web resources.
 
+
+# Python Mastery: Day 1 - Cleansheets
 
 ## Concepts Covered
 
-On the first day, I revised the following Python concepts, syntaxes are thoroughly covered `below`:
+On the first day, I revised the following Python concepts. The syntaxes are thoroughly covered `below`:
+
 
 ### Basics
 - **Print**: Using `print()` to display messages.
