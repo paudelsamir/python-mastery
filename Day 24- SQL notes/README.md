@@ -1,4 +1,4 @@
-# Beginner SQL with MySQL: Detailed Notes
+# Beginner SQL with MySQL (NOTES)
 
 ## 1. Introduction to Databases and MySQL
 
