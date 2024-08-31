@@ -29,9 +29,9 @@ The repository is organized into three main directories based on difficulty:
 
 | Level | Days | Status |
 |-------|------|--------|
-| 🌱 Beginner | 01-14 | ✅ Completed |
-| 🌿 Intermediate | 15-30 | 🏃 In Progress |
-| 🌳 Advanced | 31-100 | 🔜 Coming Soon |
+| 🌱 Beginner | 01-15 | ✅ Completed |
+| 🌿 Intermediate |  | 🏃 In Progress |
+| 🌳 Advanced |  | 🔜 Coming Soon |
 
 ## Resources
 
