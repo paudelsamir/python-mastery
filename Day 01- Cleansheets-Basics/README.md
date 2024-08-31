@@ -1,4 +1,6 @@
-**Note:** 🚀 **I’ve learned the basics of Python before and am now revisiting them to strengthen my foundation.**  This cleansheet is crafted with the help of AI tools and invaluable web resources.
+**Note:** 🚀 **I’ve learned the basics of Python before and am now revisiting them to strengthen my foundation with data.** <br><br> 
+<i>This cleansheet is crafted with the help of AI tools and invaluable web resources. 
+</i>
 
 
 # Python Mastery: Day 1 - Cleansheets
