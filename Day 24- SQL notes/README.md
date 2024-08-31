@@ -1,4 +1,9 @@
-# Beginner SQL with MySQL (NOTES)
+
+# [Visit the SQL Practice log repository 🚀 ](https://github.com/paudelsamir/sql-log)
+
+
+## This notes is for revision purpose only, created after learned SQL.
+
 
 ## 1. Introduction to Databases and MySQL
 
