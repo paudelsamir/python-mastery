@@ -1,4 +1,3 @@
-# [Visit the Pandas practice log repository 🚀 ](https://github.com/paudelsamir/pandas-log)
+## Done come data manipulation using pandas in my Machine Learning Journey, Here is the link:
 
-
-## I have practiced Pandas using Jpynb and have tracked my log to the above repo !!
+# [Visit here🚀 ](https://github.com/paudelsamir/LearningUtsav-30DaysOfMachineLearning/tree/main/Day%2003%20-%20Data%20Handling%20With%20Pandas))
