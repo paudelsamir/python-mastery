@@ -1,5 +1,3 @@
-# [Visit the Pandas Practice Log Repository 🚀](https://github.com/paudelsamir/pandas-log)
+# [Visit Data Manipulation with pandas]([https://github.com/paudelsamir/pandas-log](https://github.com/paudelsamir/LearningUtsav-30DaysOfMachineLearning/tree/main/Day%2003%20-%20Data%20Handling%20With%20Pandas)
 
-## 🐼 Pandas Practice Log
-
-I have practiced **Pandas** using Jupyter Notebooks (`.ipynb`) and have tracked my logs in the repository linked above. Check it out to explore my progress and examples of data manipulation using Pandas! 
+![](Day 22- Pandas Library , Working with CSV/image.png)
