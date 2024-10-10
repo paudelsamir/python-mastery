@@ -30,8 +30,8 @@ The repository is organized into three main directories based on difficulty:
 | Level | Days | Status |
 |-------|------|--------|
 | 🌱 Beginner | 01-15 | ✅ Completed |
-| 🌿 Intermediate |  | 🏃 In Progress |
-| 🌳 Advanced |  | 🔜 Coming Soon |
+| 🌿 Intermediate | 15-30  | ✅ Completed|
+| 🌳 Advanced | Next Month |🏃 In Progress   |
 
 ## Resources
 
