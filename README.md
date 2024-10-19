@@ -1,4 +1,4 @@
-#  [Python Mastery]
+#  Python Mastery
 ![GitHub last commit](https://img.shields.io/github/last-commit/paudelsamir/python-mastery)
 ![GitHub repo size](https://img.shields.io/github/repo-size/paudelsamir/python-mastery)
 
