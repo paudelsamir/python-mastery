@@ -1,9 +1,11 @@
-#  Python Mastery
+ok#  Python Mastery
 ![GitHub last commit](https://img.shields.io/github/last-commit/paudelsamir/python-mastery)
 ![GitHub repo size](https://img.shields.io/github/repo-size/paudelsamir/python-mastery)
 
 This repository tracks my day-by-day progress in learning Python, organized by difficulty level.
 ##  Projects Completed
+
+
 
 
 - [**Hangman Game**](./Day%2007-Hangman%20Project/hangman.py)
